@@ -50,7 +50,7 @@ A) Run the installer without any customization
 B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
-   1. ANSWER C) flutter run
+  1. ANSWER C) flutter run
 
 
 2. Which option should you ensure is checked during Python installation on Windows?
@@ -59,7 +59,7 @@ A) Install with default settings
 B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
-     2. ANSWER C) Add Python to PATH
+   2. ANSWER C) Add Python to PATH
 
 3. How do you verify Python installation on any system?
 
@@ -67,8 +67,7 @@ A) By running python --version
 B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
-
-  3. ANSWER A) By running python --version
+   3. ANSWER A) By running python --version
 
 4. What command is used to install pip on macOS and Linux?
 
@@ -76,7 +75,7 @@ A) sudo install pip
 B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
-  4. ANSWER C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   4. ANSWER C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
  
 5. What is the purpose of a virtual environment in Python?
 
@@ -84,7 +83,7 @@ A) To keep your projects organized in one folder
 B) To install Python in a different directory
 C) To separate project dependencies and avoid conflicts
 D) To enhance Python performance on your system
-   5. ANSWER C) To separate project dependencies and avoid conflicts
+  5. ANSWER C) To separate project dependencies and avoid conflicts
  
 #MySQL INSTALLATION
 
@@ -94,21 +93,21 @@ A) Download MySQL Shell
 B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
-     1. ANSWER B) Download MySQL Installer from the official website
+  1. ANSWER B) Download MySQL Installer from the official website
 2. What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
 B) Server Only
 C) Full
 D) Custom
-    2. ANSWER  D) Custom
+  2. ANSWER  D) Custom
 3. Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
-    3. ANSWER  A) MySQL Server, MySQL Workbench, and MySQL Shell
+  3. ANSWER  A) MySQL Server, MySQL Workbench, and MySQL Shell
 
 4. What is the purpose of setting a root password during MySQL installation?
 
@@ -116,7 +115,7 @@ A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
-   4. ANSWER B) To secure your MySQL installation with a super-secret password
+  4. ANSWER B) To secure your MySQL installation with a super-secret password
 
 5. How do you begin managing your database after installing MySQL?
 
@@ -124,4 +123,4 @@ A) Start by installing additional plugins
 B) Launch MySQL Workbench and connect to your MySQL Server
 C) Run mysqladmin start in the terminal
 D) Restart your computer to activate MySQL
-  5. ANSWER B) Launch MySQL Workbench and connect to your MySQL Server
+   5. ANSWER B) Launch MySQL Workbench and connect to your MySQL Server

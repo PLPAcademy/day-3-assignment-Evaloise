@@ -76,7 +76,7 @@ A) sudo install pip
 B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
-   4. ANSWER C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  4. ANSWER C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
  
 5. What is the purpose of a virtual environment in Python?
 
